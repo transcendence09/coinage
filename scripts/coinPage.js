@@ -117,7 +117,7 @@ function animate() {
 animate();
 
 // === Sidebar Menu Navigation + Sound ===
-const basePath = `${window.location.origin}/coin-project`;
+const basePath = `${window.location.origin}/coinage`;
 document.querySelectorAll('#menu li').forEach(item => {
   const coinSlug = item.getAttribute('data-coin');
   let isActive = false;
