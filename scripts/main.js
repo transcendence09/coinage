@@ -6,7 +6,7 @@ import { setupGlobalAudioInit, playClick, playHover } from './audio.js';
 // === Init audio system ===
 setupGlobalAudioInit();
 
-const basePath = `${window.location.origin}/coin-project`;
+const basePath = `${window.location.origin}/coinage`;
 
 const scene = new THREE.Scene();
 const camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
