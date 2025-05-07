@@ -1,0 +1,16 @@
+{
+  "title": "2 Pence",
+  "description": "The 2 pence coin is a large, copper-plated steel coin introduced in 1971. It’s widely recognized and frequently used in the UK.",
+  "messages": [
+    { "type": "admin", "text": "Hey there, big spender… didn’t expect me to talk, did you?" },
+    { "type": "user", "text": "You're the 2p coin, right?" },
+    { "type": "admin", "text": "In the coppery flesh. Been around since 1971 — decimalisation day. I’m what you'd call “everyday royalty.” Pocket change to most, but I’ve seen things." },
+    { "type": "user", "text": "Like what?😮" },
+    { "type": "admin", "text": "Vending machines, arcades, donation jars, lost between sofa cushions. I’m the coin of the people.<br><br>Oh and that is the Prince of Wales’s feathers on my back. 'Ich dien' — it means 'I serve'. Poetic, innit?" },
+    { "type": "user", "text": "Do people still use you much?" },
+    { "type": "admin", "text": "Not like they used to. Some shops do not even accept me now. But I’ve got staying power.<br><br>I’m sentimental. Parents give me to kids. I get tossed in fountains for wishes."},
+    { "type": "user", "text": "What do you wish for?" },
+    { "type": "admin", "text": "To be more than just change. To remind people: even the smallest voice carries history." },
+    { "type": "user", "text": "Cool, thanks for sharing. I appreciate it" }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "title": "1 Pound",
+  "description": "Oi! You picked me, didn’t you? Good choice — I’ve got some weight to me.",
+  "messages": [
+    { "type": "admin", "text": "Hey! What’s your story?" },
+    { "type": "user", "text": "I was born in 2017 — a tough little twelve-sider with high-tech roots. Royal Mint calls me the most secure coin in the world. Not bad, eh?" },
+    { "type": "admin", "text": "Twelve sides? That’s unusual." },
+    { "type": "user", "text": "Right? It's called a dodecagon — fancy word for “not round.” Makes me harder to fake. Plus, I’ve got a latent image, micro-lettering, and even a hidden security feature they won’t tell you about. Like a spy, but shinier." },
+    { "type": "admin", "text": "What metals are used in it?" },
+    { "type": "user", "text": "Nickel-brass center, nickel-plated outer." },
+    { "type": "admin", "text": "What was the old pound coin like?" },
+    { "type": "user", "text": "It was round and less secure." },
+    { "type": "admin", "text": "Is the old pound still valid?" },
+    { "type": "user", "text": "No, it was demonetised. Too many fakes circulating" },
+    { "type": "admin", "text": "What’s on the back of the coin?" },
+    { "type": "user", "text": "Front: Queen Elizabeth II — rest her soul.🕊️<br><br>Back: Four nations united — rose, leek, thistle, and shamrock sprouting from a single stem.<br><br>Designed by a 15-year-old, believe it or not." },
+    { "type": "admin", "text": "That’s beautiful." },
+    { "type": "user", "text": "Thanks. I may be small, but I carry centuries of symbolism — monarchy, unity, trade, everyday life.<br><br>You’ve probably used me to buy crisps, a bus ticket, or maybe nothing at all in a cashless world. Still, I persist." },
+    { "type": "admin", "text": "Do you miss being used more?" },
+    { "type": "user", "text": "Maybe. But I like my new role here — telling my story. Being seen. Being heard.😊" },
+    { "type": "admin", "text": "Anything else to add?" },
+    { "type": "user", "text": "Just this: Don’t overlook the small things. They might be carrying empires in their pockets." } 
+  ]
+}

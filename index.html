@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>3D Coin Carousel</title>
+
+  <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet" media="all">
+
+  <link rel="stylesheet" href="./styles.css">
+
+  <script type="importmap">
+    {
+      "imports": {
+        "three": "https://cdn.jsdelivr.net/npm/three@0.176.0/build/three.module.js",
+        "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.176.0/examples/jsm/"
+      }
+    }
+  </script>
+</head>
+
+<body class="index-page">
+  <!-- Three.js canvas for the carousel -->
+  <canvas id="three-canvas"></canvas>
+
+  <!-- Tooltip on hover -->
+  <div id="popup"></div>
+
+  <!-- Mobile hamburger menu -->
+  <a href="javascript:void(0)" class="hamburger-button" id="hamburger">
+    <svg width="32px" height="32px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M1 12C1 11.4477 1.44772 11 2 11H22C22.5523 11 23 11.4477 23 12C23 12.5523 22.5523 13 22 13H2C1.44772 13 1 12.5523 1 12Z" fill="currentColor"/>
+      <path d="M1 4C1 3.44772 1.44772 3 2 3H22C22.5523 3 23 3.44772 23 4C23 4.55228 22.5523 5 22 5H2C1.44772 5 1 4.55228 1 4Z" fill="currentColor"/>
+      <path d="M1 20C1 19.4477 1.44772 19 2 19H22C22.5523 19 23 19.4477 23 20C23 20.5523 22.5523 21 22 21H2C1.44772 21 1 20.5523 1 20Z" fill="currentColor"/>
+    </svg>
+  </a>
+
+  <h1 class="index-title">The Coinage</h1>
+
+  <!-- Sidebar menu for coin navigation -->
+  <div id="menu">
+    <div class="menu-header">Coin History</div>
+    <ul>
+      <li data-coin="1-penny">1 Penny</li>
+      <li data-coin="1-pound">1 Pound</li>
+      <li data-coin="2-pence">2 Pence</li>
+      <li data-coin="2-pounds">2 Pounds</li>
+      <li data-coin="50-pence">50 Pence</li>
+    </ul>
+  </div>
+
+  <!-- Main JS controlling the 3D carousel -->
+  <script type="module" src="scripts/main.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,20 @@
+{
+  "title": "50 Pence",
+  "description": "The 50 pence coin is a seven-sided coin introduced in 1969. It’s well-known for commemorative designs and its distinct shape.",
+  "messages": [
+    { "type": "admin", "text": "Ah, a discerning visitor! I’m glad you’ve arrived." },
+    { "type": "user", "text": "You're... the 50 pence coin?" },
+    { "type": "admin", "text": "Indeed. Heptagonal. Elegant. I don’t roll away — I glide. Introduced in 1969 to replace the ten-bob note. Been making statements ever since." },
+    { "type": "user", "text": "You look different from the others." },
+    { "type": "admin", "text": "Seven sides of design potential. I’ve hosted Kew Gardens, Paddington Bear, Beatrix Potter, even Brexit. I’m the Royal Mint’s favourite canvas." },
+    { "type": "user", "text": "So you’re kind of famous?" },
+    { "type": "admin", "text": "Let’s say… collectable. People hunt for me like treasure. I’m money, yes — but I’m also a gallery. A commemorative storyteller." },
+    { "type": "user", "text": "Do you see yourself as art?" },
+    { "type": "admin", "text": "Art with a job to do. A carrier of memory. A shapeshifter. One moment, I’m buying milk — the next, I’m tucked in a velvet case beside the Queen.😀" },
+    { "type": "user", "text": "What’s your proudest design?" },
+    { "type": "admin", "text": "Hard to choose… but Kew Gardens — that one stirred collectors into a frenzy. I love a bit of drama." },
+    { "type": "user", "text": "Any final words?" },
+    { "type": "admin", "text": "Spend me or save me — either way, I endure." },
+    { "type": "user", "text": "Great chatting with you. Bye 👋🏻" }
+  ]
+}
