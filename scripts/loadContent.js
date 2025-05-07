@@ -1,5 +1,5 @@
 // === GitHub Pages Base Path ===
-const basePath = `${window.location.origin}/coin-project`;
+const basePath = `${window.location.origin}/coinage`;
 
 // === Determine the coin slug from the file path ===
 const pathParts = window.location.pathname.split('/');
