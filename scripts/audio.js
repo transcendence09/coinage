@@ -1,4 +1,4 @@
-const basePath = `${window.location.origin}/coin-project`;
+const basePath = `${window.location.origin}/coinage`;
 
 let clickSound, hoverSound;
 let audioInitialized = false;
